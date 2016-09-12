@@ -1,0 +1,15 @@
+Text is everywhere but not always in a useful form.  On any given day we
+encounter dozens or hundreds of data formats.  Some formats are focused on
+presentation while others focus on structure at the expense of presentation.
+Many times the information we need has to be found, disentangled and
+manipulated before it is useful.  The easier we can navigate across these
+boundaries, the more freedom we have to find new uses and insights.
+
+Linux offers a rich array of commands and tools for text processing at the
+command line.  This talk proposes a classification for different types of
+command line processing tasks and then explores some of the common tools
+available within each category.  Many of these tools have a host of options.
+Some useful but lesser known options will be highlighted.  The tools will then
+be applied to a number of examples covering data extraction, processing and
+presentation.
+
