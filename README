@@ -9,7 +9,4 @@ Linux offers a rich array of commands and tools for text processing at the
 command line.  This talk proposes a classification for different types of
 command line processing tasks and then explores some of the common tools
 available within each category.  Many of these tools have a host of options.
-Some useful but lesser known options will be highlighted.  The tools will then
-be applied to a number of examples covering data extraction, processing and
-presentation.
-
+Some useful but lesser known options will be highlighted.
